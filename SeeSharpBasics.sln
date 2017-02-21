@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeeSharpBasics", "SeeSharpBasics\SeeSharpBasics.csproj", "{4C4AFB47-C5D5-479A-A52D-6515E47FA275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toci.SeeSharpBasics.Test", "Toci.SeeSharpBasics.Test\Toci.SeeSharpBasics.Test.csproj", "{FC2636EC-B4B2-4B02-956A-7505A48DB9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{37F7D8FC-BF53-4A1C-ABB9-80C9F49D722E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4AFB47-C5D5-479A-A52D-6515E47FA275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4AFB47-C5D5-479A-A52D-6515E47FA275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4AFB47-C5D5-479A-A52D-6515E47FA275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4AFB47-C5D5-479A-A52D-6515E47FA275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2636EC-B4B2-4B02-956A-7505A48DB9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2636EC-B4B2-4B02-956A-7505A48DB9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2636EC-B4B2-4B02-956A-7505A48DB9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2636EC-B4B2-4B02-956A-7505A48DB9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F7D8FC-BF53-4A1C-ABB9-80C9F49D722E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F7D8FC-BF53-4A1C-ABB9-80C9F49D722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F7D8FC-BF53-4A1C-ABB9-80C9F49D722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F7D8FC-BF53-4A1C-ABB9-80C9F49D722E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

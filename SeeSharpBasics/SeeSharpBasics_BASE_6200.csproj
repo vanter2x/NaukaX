@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C4AFB47-C5D5-479A-A52D-6515E47FA275}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SeeSharpBasics</RootNamespace>
+    <AssemblyName>SeeSharpBasics</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BartekZapart\BartekTableOperations.cs" />
+    <Compile Include="BartekZapart\BartekZapartStringOperations.cs" />
+    <Compile Include="BartekZapart\TablesOperations.cs" />
+    <Compile Include="DominikRzepnicki\DominikRzepnickiStringOperations.cs" />
+    <Compile Include="DominikRzepnicki\DominikRzepnickiTablesOperations.cs" />
+    <Compile Include="Edwin\EdwinStringOperations.cs" />
+    <Compile Include="Edwin\EdwinTablesOperations.cs" />
+    <Compile Include="Edwin\HashMaps\HashMapExample.cs" />
+    <Compile Include="Edwin\HomeWorkHashTables\EdwinBankResolver.cs" />
+    <Compile Include="KarolZareba\KarolZarebaStringOperations.cs" />
+    <Compile Include="KarolZareba\KarolZarebaTablesOperations.cs" />
+    <Compile Include="MagdaSkalik\MagdaSkalikStringOperations.cs" />
+    <Compile Include="MagdaSkalik\MagdaSkalikTableOperations.cs" />
+    <Compile Include="MarcinGala\MarcinGalaStringOperations.cs" />
+    <Compile Include="MarcinGala\MarcinTableOperations.cs" />
+    <Compile Include="Olek\OlekStringOperations.cs" />
+    <Compile Include="Olek\OlekTableOperations.cs" />
+    <Compile Include="PatrykDrapik\PatrykDrapikStringOperations.cs" />
+    <Compile Include="PawelHanus\PawelHanusStringOperations.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SlawekKowal\SlawekKTableOperations.cs" />
+    <Compile Include="Slawek\SlawekStringOperations.cs" />
+    <Compile Include="SoniaKozubik\SoniaKozubikStringOperations.cs" />
+    <Compile Include="StringOperations.cs" />
+    <Compile Include="SlawekKowal\SlawekKStringOperations.cs" />
+    <Compile Include="Test\TestStringOperations.cs" />
+    <Compile Include="TomaszKilian\TomaszKilianCodeGenerator.cs" />
+    <Compile Include="TomaszKilian\TomaszKilianStringOperations.cs" />
+    <Compile Include="TomaszKilian\TomaszKilTablesOperations.cs" />
+    <Compile Include="TomaszKilian\TomekStringOperations.cs" />
+    <Compile Include="TomaszKilian\TomekTableOperations.cs" />
+    <Compile Include="TomaszKilian\TomekTablesOperations.cs" />
+    <Compile Include="Training3\Hashmaps\HashmapExample.cs" />
+    <Compile Include="Training3\Hashmaps\MultiDimensionalTables.cs" />
+    <Compile Include="Training3\Homework\BankResolver.cs" />
+    <Compile Include="Training3\Homework\BartekZapartMoneyValue.cs" />
+    <Compile Include="Training3\Homework\CodeGenerator.cs" />
+    <Compile Include="Training3\Homework\MineSweeper.cs" />
+    <Compile Include="Training3\Homework\MoneyValue.cs" />
+    <Compile Include="Training3\Homework\PeselValidator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
