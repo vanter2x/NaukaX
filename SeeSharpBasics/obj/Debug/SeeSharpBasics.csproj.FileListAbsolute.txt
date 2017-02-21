@@ -21,3 +21,11 @@ D:\CSharp1\sparrows-git\SeeSharpBasics\SeeSharpBasics\bin\Debug\Npgsql.dll
 D:\CSharp1\sparrows-git\SeeSharpBasics\SeeSharpBasics\bin\Debug\Npgsql.xml
 D:\CSharp1\sparrows-git\SeeSharpBasics\SeeSharpBasics\obj\Debug\SeeSharpBasics.exe
 D:\CSharp1\sparrows-git\SeeSharpBasics\SeeSharpBasics\obj\Debug\SeeSharpBasics.pdb
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\bin\Debug\SeeSharpBasics.exe.config
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\obj\Debug\SeeSharpBasics.exe
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\obj\Debug\SeeSharpBasics.pdb
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\bin\Debug\SeeSharpBasics.exe
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\bin\Debug\SeeSharpBasics.pdb
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\bin\Debug\Npgsql.dll
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\bin\Debug\Npgsql.xml
+C:\Users\User\Documents\NaukaX\SeeSharpBasics\obj\Debug\SeeSharpBasics.csprojResolveAssemblyReference.cache

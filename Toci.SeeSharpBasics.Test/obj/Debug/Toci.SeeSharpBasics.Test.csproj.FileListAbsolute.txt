@@ -25,3 +25,12 @@ D:\CSharp1\sparrows-git\SeeSharpBasics\Toci.SeeSharpBasics.Test\bin\Debug\SeeSha
 D:\CSharp1\sparrows-git\SeeSharpBasics\Toci.SeeSharpBasics.Test\bin\Debug\Npgsql.dll
 D:\CSharp1\sparrows-git\SeeSharpBasics\Toci.SeeSharpBasics.Test\bin\Debug\SeeSharpBasics.pdb
 D:\CSharp1\sparrows-git\SeeSharpBasics\Toci.SeeSharpBasics.Test\bin\Debug\Npgsql.xml
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\bin\Debug\Toci.SeeSharpBasics.Test.dll
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\bin\Debug\Toci.SeeSharpBasics.Test.pdb
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\bin\Debug\SeeSharpBasics.exe
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\bin\Debug\Npgsql.dll
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\bin\Debug\SeeSharpBasics.pdb
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\bin\Debug\Npgsql.xml
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\obj\Debug\Toci.SeeSharpBasics.Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\obj\Debug\Toci.SeeSharpBasics.Test.dll
+C:\Users\User\Documents\NaukaX\Toci.SeeSharpBasics.Test\obj\Debug\Toci.SeeSharpBasics.Test.pdb

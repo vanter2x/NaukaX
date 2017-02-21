@@ -43,3 +43,17 @@ D:\CSharp1\sparrows-git\SeeSharpBasics\Minesweeper\bin\Debug\Npgsql.xml
 D:\CSharp1\NaukaX\NaukaX\Minesweeper\bin\Debug\Minesweeper.exe.config
 D:\CSharp1\NaukaX\NaukaX\Minesweeper\obj\Debug\Minesweeper.exe
 D:\CSharp1\NaukaX\NaukaX\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\User\Documents\NaukaX\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\User\Documents\NaukaX\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\User\Documents\NaukaX\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\User\Documents\NaukaX\Minesweeper\bin\Debug\SeeSharpBasics.exe
+C:\Users\User\Documents\NaukaX\Minesweeper\bin\Debug\Npgsql.dll
+C:\Users\User\Documents\NaukaX\Minesweeper\bin\Debug\SeeSharpBasics.pdb
+C:\Users\User\Documents\NaukaX\Minesweeper\bin\Debug\Npgsql.xml
+C:\Users\User\Documents\NaukaX\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\NaukaX\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\User\Documents\NaukaX\Minesweeper\obj\Debug\Minesweeper.SlawekKChess.SlawekKChess.resources
+C:\Users\User\Documents\NaukaX\Minesweeper\obj\Debug\Minesweeper.SlawekKowal.resources
+C:\Users\User\Documents\NaukaX\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\User\Documents\NaukaX\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\User\Documents\NaukaX\Minesweeper\obj\Debug\Minesweeper.pdb
