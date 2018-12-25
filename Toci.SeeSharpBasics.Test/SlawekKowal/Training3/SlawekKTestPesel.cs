@@ -11,8 +11,8 @@ namespace Toci.SeeSharpBasics.Test.SlawekKowal.Training3
         public void PeselTest()
         {
             SlawekKPeselValidator pslVal = new SlawekKPeselValidator();
-            var x = pslVal.IsPeselValid("84100815397");
-            var y = pslVal.IsPeselValid("14271012387");
+            var x = pslVal.IsPeselValid("84100822222");
+            var y = pslVal.IsPeselValid("34234234344");
             var a = pslVal.GetYear(84, 10);
             var b = pslVal.GetMonth(10);
             var c = pslVal.ChechMonth(10);
